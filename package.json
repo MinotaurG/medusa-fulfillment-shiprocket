@@ -1,5 +1,5 @@
 {
-  "name": "medusa-fulfillment-shiprocket",
+  "name": "@minotaurg/medusa-fulfillment-shiprocket",
   "version": "1.0.0",
   "description": "Shiprocket fulfillment provider for Medusa v2 — multi-courier shipping for Indian e-commerce",
   "main": "src/index.ts",
