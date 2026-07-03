@@ -1,0 +1,28 @@
+{
+  "name": "medusa-fulfillment-shiprocket",
+  "version": "1.0.0",
+  "description": "Shiprocket fulfillment provider for Medusa v2 — multi-courier shipping for Indian e-commerce",
+  "main": "src/index.ts",
+  "author": "MinotaurG",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MinotaurG/medusa-fulfillment-shiprocket"
+  },
+  "keywords": [
+    "medusa",
+    "medusa-plugin",
+    "medusa-fulfillment",
+    "shiprocket",
+    "india",
+    "shipping",
+    "courier",
+    "delhivery",
+    "bluedart",
+    "ecom-express"
+  ],
+  "peerDependencies": {
+    "@medusajs/framework": "^2.0.0",
+    "@medusajs/types": "^2.0.0"
+  }
+}
